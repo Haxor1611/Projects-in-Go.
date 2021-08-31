@@ -1,2 +1,3 @@
-# Projects-in-Go.
-For all my projects  made using the go programming language
+# Random small projects
+
+For all my random projects, mostly one file applications.
